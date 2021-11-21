@@ -38,3 +38,4 @@ deploy:
     draft: true
     on:
       branch: master
+
